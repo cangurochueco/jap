@@ -114,6 +114,7 @@ footer{
         color: #fff;
         text-align: start;
         padding: 5px 0; /* Añade un poco de espacio alrededor del texto */
+        position: fixed; bottom: 0;
 }
 svg {
     color: white;
